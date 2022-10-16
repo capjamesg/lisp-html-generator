@@ -6,7 +6,7 @@ This project was written to help me learn more about Lisp. I would not recommend
 
 ## License
 
-This project is licensed under an MIT license.
+This project is licensed under an MIT 0 license.
 
 ## Contributors
 
